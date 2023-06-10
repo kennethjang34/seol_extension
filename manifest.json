@@ -1,0 +1,11 @@
+{
+  "name": "Seol Extension",
+  "version": "1.0.0",
+  "description": "Cute Seol photos",
+  "manifest_version": 3,
+  "author": "Junhyeok Jang, Older brother of Seol",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Seol is the cutest"
+  }
+}
